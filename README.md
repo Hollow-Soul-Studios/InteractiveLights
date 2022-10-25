@@ -1,7 +1,7 @@
 
 # Interactive Switches
 
-Interactive Switches allows you to create and customize a lighting system using variety of lighting sources and meshes. The included Switch Plates and Switches are able to be operated independently and can be 'wired' to as many lights as needed, including varying component types, emulating that found in a real world room/environment.
+Interactive Switches is an Unreal Engine asset package that allows you to create and customize a lighting system using variety of lighting sources and meshes. The included Switch Plates and Switches are able to be operated independently and can be 'wired' to as many lights as needed, including varying component types, emulating that found in a real world room/environment.
 
 ---------------------
  * Technical Information
